@@ -1,4 +1,4 @@
-# PROYECTO R2 - PROGRAMACIÓN MOVIL
+# PROYECTO R2 - PROGRAMACIÓN MÓVIL
 
 By: Ivan Joshue Medrano Rios, 5°H
 
