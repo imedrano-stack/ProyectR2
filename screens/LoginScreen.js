@@ -23,7 +23,7 @@ const LoginScreen = () => {
         navigation.navigate("Home")
     }
 
-    const alertSystem = (email) => {
+    const alertSystem = () => {
         if(email != '' && password != ''){
             navigation.navigate("Home")
         } else {
